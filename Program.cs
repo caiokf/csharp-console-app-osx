@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace codejam_test
+namespace ConsoleApp
 {
     public class Program
     {
